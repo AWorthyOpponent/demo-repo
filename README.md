@@ -10,3 +10,7 @@ When you update the changes to this file, the default commit message will change
 # Subheader
 
 This is for testing the change using "git status"
+
+# Local Development
+
+1. Open index.html in your brower
